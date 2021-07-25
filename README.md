@@ -7,8 +7,8 @@
 * Customers will filter the data to find their vacation spot
 
 ### Additional Overview
-* Currently, beta testers are using the PlanMyTrip app to examine its utility 
-* App should return proper info to the beta testers 
+* Currently, beta testers are using the PlanMyTrip app to examine its utility
+* The app should return the proper information to the beta testers
 
 ### Purpose
 
@@ -59,5 +59,5 @@
 
 ## Summary: Does the PlanMyTrip app meet its objective? 
 
-* PlanMyTrip app meets its objective if the code returns a Travel Destinations Map and Travel Itinerary Map with pop-up markers based on the beta tester's preferences.
+* PlanMyTrip's app meets its objective if the code returns a Travel Destinations Map and Travel Itinerary Map with pop-up markers based on the beta tester's preferences.
 * As long as the app meets its objective, PlanMyTrip's app is a success. Therefore, PlanMyTrip can release the app to real customers. 
