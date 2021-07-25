@@ -12,8 +12,8 @@
 
 ### Purpose
 
-* Retrieve weather data to present to customers
-* After the beta tester filters the weather data for their preferences, identify potential travel destinations and nearby hotels 
+* Retrieve weather data to present to beta testers 
+* After the beta tester filters the weather data for his/her preferences, identify potential travel destinations and nearby hotels 
 * After the beta tester chooses four cities, create a travel route between the four cities as well as a marker layer map
 * **Objective: Beta tester should see Travel Destinations Map and Travel Itinerary Map with pop-up markers based on his/her preferences** 
 
